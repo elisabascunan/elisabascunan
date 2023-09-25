@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Elisa and I am a psychologist pursuing a MSc in Epidemiology at Charité University, Berlin. Currently learning Github and gaining experience as Research Assistant at the Berlin Institute of Health.
+My name is Elisa and I am a psychologist pursuing a MSc in Epidemiology at Charité University, Berlin. Currently learning Github and gaining experience as Research Assistant at BIH.
+![cuidados_de_una_capibara_20185_orig](https://github.com/elisabascunan/elisabascunan/assets/144803094/3e68846b-adeb-4e64-befb-536405d1d537)
 
 <!--
 **elisabascunan/elisabascunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
