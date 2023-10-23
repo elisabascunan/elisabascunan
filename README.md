@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Elisa and I am a psychologist pursuing a MSc in Epidemiology at Charité University, Berlin. Currently learning Github and gaining experience as Research Assistant at BIH.
+My name is Elisa and I am a psychologist pursuing a MSc in Epidemiology at Charité University, Berlin..
 
 <!--
 **elisabascunan/elisabascunan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
